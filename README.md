@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </div>
 <div align="center">
 <!-- 打字动画横幅 -->
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Ma+Yong;Frontend+Developer;Based+in+Shenzhen&font=Fira%20Code&center=true&width=440&height=55&color=bdc3f0&vCenter=true&size=22">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+yma16;Frontend+Developer;Based+in+Shenzhen&font=Fira%20Code&center=true&width=440&height=55&color=bdc3f0&vCenter=true&size=22">
 </div>
 
 ---
